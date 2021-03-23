@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './Navbar.css';
 import Dropdown from './Dropdown';
 import {Link} from 'react-router-dom';
+import logo from './images/icon3.png';
 
 function Navbar() {
     const [click, setClick] = useState(false);
@@ -28,6 +29,7 @@ function Navbar() {
     return(
         <>
             <nav className='navbar'>
+                <img src={logo} className="logo-rooney"/>
                 <Link to='/' className='navbar-logo'>
                     Fut Stars
                 </Link>

@@ -57,6 +57,15 @@ h2{
     height: 100vh;
 }
 
+.navbar-logo{
+    margin-left: -15px;
+}
+
+.logo-rooney{
+    width: 60px;
+    height: auto;
+}
+
 .logos{
     /* display: grid;
     grid-template-columns: repeat(4, auto);
