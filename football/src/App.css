@@ -159,7 +159,7 @@ footer {
     list-style: none;
 }
 
-.sci li a{
+.sci li i{
     display: inline-block;
     width: 40px;
     height: 40px;
@@ -170,13 +170,15 @@ footer {
     margin-right: 10px;
     text-decoration: none;
     border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
 }
 
-.sci li a:hover{
+.sci li i:hover{
     background: var(--tertiary);
 }
 
-.sci li a .fab{
+.sci li i .fab{
     color: #fff;
     font-size: 20px;
 }

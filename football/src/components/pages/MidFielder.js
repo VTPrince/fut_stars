@@ -12,14 +12,14 @@ export default function MidFielder(){
                         <div key={data.ID}>
                             {
                                 (
-                                    data.Position == "LAM" || 
-                                    data.Position == "CAM" || 
-                                    data.Position == "RAM" || 
-                                    data.Position == "LM" ||
-                                    data.Position == "LCM" || 
-                                    data.Position == "CM" || 
-                                    data.Position == "RCM" || 
-                                    data.Position == "RM" 
+                                    data.Position === "LAM" || 
+                                    data.Position === "CAM" || 
+                                    data.Position === "RAM" || 
+                                    data.Position === "LM" ||
+                                    data.Position === "LCM" || 
+                                    data.Position === "CM" || 
+                                    data.Position === "RCM" || 
+                                    data.Position === "RM" 
                                 ) && 
                                 <p>{data.Name}</p>     
                             }

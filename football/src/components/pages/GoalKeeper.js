@@ -12,7 +12,7 @@ export default function GoalKeeper(){
                         <div key={data.ID}>
                             {
                                 (
-                                    data.Position == "GK" 
+                                    data.Position === "GK" 
                                 ) && 
                                 <p>{data.Name}</p>     
                             }

@@ -29,7 +29,7 @@ function Navbar() {
     return(
         <>
             <nav className='navbar'>
-                <img src={logo} className="logo-rooney"/>
+                <img src={logo} className="logo-rooney" alt="logo"/>
                 <Link to='/' className='navbar-logo'>
                     Fut Stars
                 </Link>

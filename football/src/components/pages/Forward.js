@@ -12,14 +12,14 @@ export default function Forward(){
                         <div key={data.ID}>
                             {
                                 (
-                                    data.Position == "LS" || 
-                                    data.Position == "ST" || 
-                                    data.Position == "RS" || 
-                                    data.Position == "LW" ||
-                                    data.Position == "LF" || 
-                                    data.Position == "CF" || 
-                                    data.Position == "RF" || 
-                                    data.Position == "RW" 
+                                    data.Position === "LS" || 
+                                    data.Position === "ST" || 
+                                    data.Position === "RS" || 
+                                    data.Position === "LW" ||
+                                    data.Position === "LF" || 
+                                    data.Position === "CF" || 
+                                    data.Position === "RF" || 
+                                    data.Position === "RW" 
                                 ) && 
                                 <p>{data.Name}</p>     
                             }

@@ -27,8 +27,8 @@ export default function Home() {
                 <div className="sec aboutus">
                   <h3 className="footer-h3">About Us</h3>
                   <p className="footer-p">Ad irure minim cillum eiusmod ex cillum eiusmod ut tempor non magna amet ullamco reprehenderit. Est pariatur laboris do cillum ut in ad fugiat. Excepteur aute excepteur mollit voluptate dolore esse sit. Nostrud est sunt cupidatat culpa velit occaecat cillum occaecat eu tempor laborum culpa exercitation.</p>
-                  <ul class="sci">
-                  <li><a href="#"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+                  <ul className="sci">
+                  <li><i className="fab fa-github" aria-hidden="true"></i></li>
                 </ul>
                 </div>
                 <div className="sec contact">
