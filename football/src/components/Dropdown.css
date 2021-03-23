@@ -1,3 +1,6 @@
+:root{
+    --tertiary: #ff0043;
+}
 .dropdown-menu{
     width: 200px;
     position: absolute;
@@ -12,7 +15,7 @@
 }
 
 .dropdown-menu li:hover{
-    background-color: #e60eb0;
+    background-color: var(--tertiary);
     transition: all 0.2s ease-out;
 }
 
