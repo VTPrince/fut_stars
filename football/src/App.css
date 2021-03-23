@@ -173,7 +173,7 @@ footer {
 }
 
 .sci li a:hover{
-    background: #e60eb0;
+    background: var(--tertiary);
 }
 
 .sci li a .fab{
