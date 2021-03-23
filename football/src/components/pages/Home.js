@@ -4,6 +4,7 @@ import barca from '../images/home_teams/barca.png'
 import united from '../images/home_teams/united.png'
 import city from '../images/home_teams/city.png'
 import psg from '../images/home_teams/psg.png'
+import ball from '../images/home_teams/ball.png'
 
 export default function Home() {
   return (
@@ -18,8 +19,10 @@ export default function Home() {
           <div className='logos'>
             <img src={barca} alt="barca"></img>
             <img src={united} alt="united"></img>
+            <img class="rotate" src={ball} alt="ball"></img>
             <img src={city} alt="city"></img>
-            <img src={psg} alt="psg"></img>
+            <img  src={psg} alt="psg"></img>
+            
           </div>
           <div className="footer-container">
             <footer>
@@ -27,8 +30,8 @@ export default function Home() {
                 <div className="sec aboutus">
                   <h3 className="footer-h3">About Us</h3>
                   <p className="footer-p">Ad irure minim cillum eiusmod ex cillum eiusmod ut tempor non magna amet ullamco reprehenderit. Est pariatur laboris do cillum ut in ad fugiat. Excepteur aute excepteur mollit voluptate dolore esse sit. Nostrud est sunt cupidatat culpa velit occaecat cillum occaecat eu tempor laborum culpa exercitation.</p>
-                  <ul className="sci">
-                  <li><i className="fab fa-github" aria-hidden="true"></i></li>
+                  <ul class="sci">
+                  <li><a href="#"><i class="fab fa-github" aria-hidden="true"></i></a></li>
                 </ul>
                 </div>
                 <div className="sec contact">
