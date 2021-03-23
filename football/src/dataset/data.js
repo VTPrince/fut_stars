@@ -79,7 +79,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 14,
     "GKReflexes": 8,
-    "Release Clause": "�226.5M"
+    "Release Clause": "&euro;226.5M"
   },
   {
     "ID": 1,
@@ -161,7 +161,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 14,
     "GKReflexes": 11,
-    "Release Clause": "�127.1M"
+    "Release Clause": "&euro;127.1M"
   },
   {
     "ID": 2,
@@ -243,7 +243,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 15,
     "GKReflexes": 11,
-    "Release Clause": "�228.1M"
+    "Release Clause": "&euro;228.1M"
   },
   {
     "ID": 3,
@@ -325,7 +325,7 @@ export const Footballers = [
     "GKKicking": 87,
     "GKPositioning": 88,
     "GKReflexes": 94,
-    "Release Clause": "�138.6M"
+    "Release Clause": "&euro;138.6M"
   },
   {
     "ID": 4,
@@ -407,7 +407,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 10,
     "GKReflexes": 13,
-    "Release Clause": "�196.4M"
+    "Release Clause": "&euro;196.4M"
   },
   {
     "ID": 5,
@@ -489,7 +489,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 8,
     "GKReflexes": 8,
-    "Release Clause": "�172.1M"
+    "Release Clause": "&euro;172.1M"
   },
   {
     "ID": 6,
@@ -571,7 +571,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 14,
     "GKReflexes": 9,
-    "Release Clause": "�137.4M"
+    "Release Clause": "&euro;137.4M"
   },
   {
     "ID": 7,
@@ -653,7 +653,7 @@ export const Footballers = [
     "GKKicking": 31,
     "GKPositioning": 33,
     "GKReflexes": 37,
-    "Release Clause": "�164M"
+    "Release Clause": "&euro;164M"
   },
   {
     "ID": 8,
@@ -735,7 +735,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 7,
     "GKReflexes": 11,
-    "Release Clause": "�104.6M"
+    "Release Clause": "&euro;104.6M"
   },
   {
     "ID": 9,
@@ -817,7 +817,7 @@ export const Footballers = [
     "GKKicking": 78,
     "GKPositioning": 88,
     "GKReflexes": 89,
-    "Release Clause": "�144.5M"
+    "Release Clause": "&euro;144.5M"
   },
   {
     "ID": 10,
@@ -899,7 +899,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 8,
     "GKReflexes": 10,
-    "Release Clause": "�127.1M"
+    "Release Clause": "&euro;127.1M"
   },
   {
     "ID": 11,
@@ -981,7 +981,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 7,
     "GKReflexes": 10,
-    "Release Clause": "�156.8M"
+    "Release Clause": "&euro;156.8M"
   },
   {
     "ID": 12,
@@ -1063,7 +1063,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 5,
     "GKReflexes": 15,
-    "Release Clause": "�90.2M"
+    "Release Clause": "&euro;90.2M"
   },
   {
     "ID": 13,
@@ -1145,7 +1145,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 6,
     "GKReflexes": 12,
-    "Release Clause": "�111M"
+    "Release Clause": "&euro;111M"
   },
   {
     "ID": 14,
@@ -1227,7 +1227,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 7,
     "GKReflexes": 10,
-    "Release Clause": "�121.3M"
+    "Release Clause": "&euro;121.3M"
   },
   {
     "ID": 15,
@@ -1309,7 +1309,7 @@ export const Footballers = [
     "GKKicking": 4,
     "GKPositioning": 5,
     "GKReflexes": 8,
-    "Release Clause": "�153.5M"
+    "Release Clause": "&euro;153.5M"
   },
   {
     "ID": 16,
@@ -1391,7 +1391,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 14,
     "GKReflexes": 11,
-    "Release Clause": "�160.7M"
+    "Release Clause": "&euro;160.7M"
   },
   {
     "ID": 17,
@@ -1473,7 +1473,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 13,
     "GKReflexes": 14,
-    "Release Clause": "�165.8M"
+    "Release Clause": "&euro;165.8M"
   },
   {
     "ID": 18,
@@ -1555,7 +1555,7 @@ export const Footballers = [
     "GKKicking": 88,
     "GKPositioning": 85,
     "GKReflexes": 90,
-    "Release Clause": "�123.3M"
+    "Release Clause": "&euro;123.3M"
   },
   {
     "ID": 19,
@@ -1637,7 +1637,7 @@ export const Footballers = [
     "GKKicking": 72,
     "GKPositioning": 86,
     "GKReflexes": 88,
-    "Release Clause": "�113.7M"
+    "Release Clause": "&euro;113.7M"
   },
   {
     "ID": 20,
@@ -1719,7 +1719,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 9,
     "GKReflexes": 13,
-    "Release Clause": "�105.6M"
+    "Release Clause": "&euro;105.6M"
   },
   {
     "ID": 21,
@@ -1801,7 +1801,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 13,
     "GKReflexes": 10,
-    "Release Clause": "�111M"
+    "Release Clause": "&euro;111M"
   },
   {
     "ID": 22,
@@ -1883,7 +1883,7 @@ export const Footballers = [
     "GKKicking": 91,
     "GKPositioning": 87,
     "GKReflexes": 87,
-    "Release Clause": "�62.7M"
+    "Release Clause": "&euro;62.7M"
   },
   {
     "ID": 23,
@@ -1965,7 +1965,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 11,
     "GKReflexes": 14,
-    "Release Clause": "�119.3M"
+    "Release Clause": "&euro;119.3M"
   },
   {
     "ID": 24,
@@ -2047,7 +2047,7 @@ export const Footballers = [
     "GKKicking": 2,
     "GKPositioning": 4,
     "GKReflexes": 3,
-    "Release Clause": "�44.6M"
+    "Release Clause": "&euro;44.6M"
   },
   {
     "ID": 25,
@@ -2129,7 +2129,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 11,
     "GKReflexes": 6,
-    "Release Clause": "�166.1M"
+    "Release Clause": "&euro;166.1M"
   },
   {
     "ID": 26,
@@ -2211,7 +2211,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 11,
     "GKReflexes": 14,
-    "Release Clause": "�137.3M"
+    "Release Clause": "&euro;137.3M"
   },
   {
     "ID": 27,
@@ -2293,7 +2293,7 @@ export const Footballers = [
     "GKKicking": 16,
     "GKPositioning": 12,
     "GKReflexes": 12,
-    "Release Clause": "�126.4M"
+    "Release Clause": "&euro;126.4M"
   },
   {
     "ID": 28,
@@ -2457,7 +2457,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 9,
     "GKReflexes": 10,
-    "Release Clause": "�105.4M"
+    "Release Clause": "&euro;105.4M"
   },
   {
     "ID": 30,
@@ -2539,7 +2539,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 15,
     "GKReflexes": 6,
-    "Release Clause": "�156.2M"
+    "Release Clause": "&euro;156.2M"
   },
   {
     "ID": 31,
@@ -2621,7 +2621,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 7,
     "GKReflexes": 6,
-    "Release Clause": "�141.5M"
+    "Release Clause": "&euro;141.5M"
   },
   {
     "ID": 32,
@@ -2703,7 +2703,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 14,
     "GKReflexes": 6,
-    "Release Clause": "�147.7M"
+    "Release Clause": "&euro;147.7M"
   },
   {
     "ID": 33,
@@ -2785,7 +2785,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 9,
     "GKReflexes": 9,
-    "Release Clause": "�112.1M"
+    "Release Clause": "&euro;112.1M"
   },
   {
     "ID": 34,
@@ -2867,7 +2867,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 5,
     "GKReflexes": 6,
-    "Release Clause": "�75.9M"
+    "Release Clause": "&euro;75.9M"
   },
   {
     "ID": 35,
@@ -2949,7 +2949,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 5,
     "GKReflexes": 9,
-    "Release Clause": "�88.2M"
+    "Release Clause": "&euro;88.2M"
   },
   {
     "ID": 36,
@@ -3031,7 +3031,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 5,
     "GKReflexes": 6,
-    "Release Clause": "�123M"
+    "Release Clause": "&euro;123M"
   },
   {
     "ID": 37,
@@ -3113,7 +3113,7 @@ export const Footballers = [
     "GKKicking": 68,
     "GKPositioning": 83,
     "GKReflexes": 92,
-    "Release Clause": "�66.6M"
+    "Release Clause": "&euro;66.6M"
   },
   {
     "ID": 38,
@@ -3277,7 +3277,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 9,
     "GKReflexes": 10,
-    "Release Clause": "�44.4M"
+    "Release Clause": "&euro;44.4M"
   },
   {
     "ID": 40,
@@ -3359,7 +3359,7 @@ export const Footballers = [
     "GKKicking": 69,
     "GKPositioning": 89,
     "GKReflexes": 89,
-    "Release Clause": "�51M"
+    "Release Clause": "&euro;51M"
   },
   {
     "ID": 41,
@@ -3441,7 +3441,7 @@ export const Footballers = [
     "GKKicking": 74,
     "GKPositioning": 90,
     "GKReflexes": 83,
-    "Release Clause": "�7.4M"
+    "Release Clause": "&euro;7.4M"
   },
   {
     "ID": 42,
@@ -3523,7 +3523,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 12,
     "GKReflexes": 15,
-    "Release Clause": "�121.1M"
+    "Release Clause": "&euro;121.1M"
   },
   {
     "ID": 43,
@@ -3605,7 +3605,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 7,
     "GKReflexes": 9,
-    "Release Clause": "�114.5M"
+    "Release Clause": "&euro;114.5M"
   },
   {
     "ID": 44,
@@ -3687,7 +3687,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 13,
     "GKReflexes": 5,
-    "Release Clause": "�90.5M"
+    "Release Clause": "&euro;90.5M"
   },
   {
     "ID": 45,
@@ -3769,7 +3769,7 @@ export const Footballers = [
     "GKKicking": 2,
     "GKPositioning": 4,
     "GKReflexes": 3,
-    "Release Clause": "�123.2M"
+    "Release Clause": "&euro;123.2M"
   },
   {
     "ID": 46,
@@ -3851,7 +3851,7 @@ export const Footballers = [
     "GKKicking": 75,
     "GKPositioning": 82,
     "GKReflexes": 90,
-    "Release Clause": "�62.5M"
+    "Release Clause": "&euro;62.5M"
   },
   {
     "ID": 47,
@@ -3933,7 +3933,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 7,
     "GKReflexes": 10,
-    "Release Clause": "�120.3M"
+    "Release Clause": "&euro;120.3M"
   },
   {
     "ID": 48,
@@ -4015,7 +4015,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 12,
     "GKReflexes": 6,
-    "Release Clause": "�88.4M"
+    "Release Clause": "&euro;88.4M"
   },
   {
     "ID": 49,
@@ -4097,7 +4097,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 6,
     "GKReflexes": 13,
-    "Release Clause": "�77.9M"
+    "Release Clause": "&euro;77.9M"
   },
   {
     "ID": 50,
@@ -4179,7 +4179,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 10,
     "GKReflexes": 4,
-    "Release Clause": "�76.5M"
+    "Release Clause": "&euro;76.5M"
   },
   {
     "ID": 51,
@@ -4261,7 +4261,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 12,
     "GKReflexes": 7,
-    "Release Clause": "�62.9M"
+    "Release Clause": "&euro;62.9M"
   },
   {
     "ID": 52,
@@ -4343,7 +4343,7 @@ export const Footballers = [
     "GKKicking": 4,
     "GKPositioning": 14,
     "GKReflexes": 14,
-    "Release Clause": "�79.1M"
+    "Release Clause": "&euro;79.1M"
   },
   {
     "ID": 53,
@@ -4425,7 +4425,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 5,
     "GKReflexes": 9,
-    "Release Clause": "�95.3M"
+    "Release Clause": "&euro;95.3M"
   },
   {
     "ID": 54,
@@ -4507,7 +4507,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 15,
     "GKReflexes": 8,
-    "Release Clause": "�69.7M"
+    "Release Clause": "&euro;69.7M"
   },
   {
     "ID": 55,
@@ -4589,7 +4589,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 9,
     "GKReflexes": 14,
-    "Release Clause": "�125.1M"
+    "Release Clause": "&euro;125.1M"
   },
   {
     "ID": 56,
@@ -4671,7 +4671,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 12,
     "GKReflexes": 9,
-    "Release Clause": "�114.5M"
+    "Release Clause": "&euro;114.5M"
   },
   {
     "ID": 57,
@@ -4753,7 +4753,7 @@ export const Footballers = [
     "GKKicking": 91,
     "GKPositioning": 82,
     "GKReflexes": 87,
-    "Release Clause": "�79.9M"
+    "Release Clause": "&euro;79.9M"
   },
   {
     "ID": 58,
@@ -4835,7 +4835,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 7,
     "GKReflexes": 14,
-    "Release Clause": "�102.7M"
+    "Release Clause": "&euro;102.7M"
   },
   {
     "ID": 59,
@@ -4917,7 +4917,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 11,
     "GKReflexes": 11,
-    "Release Clause": "�87.9M"
+    "Release Clause": "&euro;87.9M"
   },
   {
     "ID": 60,
@@ -4999,7 +4999,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 15,
     "GKReflexes": 9,
-    "Release Clause": "�108.8M"
+    "Release Clause": "&euro;108.8M"
   },
   {
     "ID": 61,
@@ -5081,7 +5081,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 6,
     "GKReflexes": 10,
-    "Release Clause": "�104.7M"
+    "Release Clause": "&euro;104.7M"
   },
   {
     "ID": 62,
@@ -5163,7 +5163,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 5,
     "GKReflexes": 14,
-    "Release Clause": "�106.3M"
+    "Release Clause": "&euro;106.3M"
   },
   {
     "ID": 63,
@@ -5245,7 +5245,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 15,
     "GKReflexes": 10,
-    "Release Clause": "�105.9M"
+    "Release Clause": "&euro;105.9M"
   },
   {
     "ID": 64,
@@ -5327,7 +5327,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 12,
     "GKReflexes": 5,
-    "Release Clause": "�60.2M"
+    "Release Clause": "&euro;60.2M"
   },
   {
     "ID": 65,
@@ -5409,7 +5409,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 12,
     "GKReflexes": 5,
-    "Release Clause": "�76.7M"
+    "Release Clause": "&euro;76.7M"
   },
   {
     "ID": 66,
@@ -5491,7 +5491,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 14,
     "GKReflexes": 14,
-    "Release Clause": "�74.3M"
+    "Release Clause": "&euro;74.3M"
   },
   {
     "ID": 67,
@@ -5573,7 +5573,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 9,
     "GKReflexes": 13,
-    "Release Clause": "�75.1M"
+    "Release Clause": "&euro;75.1M"
   },
   {
     "ID": 68,
@@ -5655,7 +5655,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 13,
     "GKReflexes": 11,
-    "Release Clause": "�74M"
+    "Release Clause": "&euro;74M"
   },
   {
     "ID": 69,
@@ -5737,7 +5737,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 6,
     "GKReflexes": 5,
-    "Release Clause": "�64.8M"
+    "Release Clause": "&euro;64.8M"
   },
   {
     "ID": 70,
@@ -5819,7 +5819,7 @@ export const Footballers = [
     "GKKicking": 3,
     "GKPositioning": 2,
     "GKReflexes": 4,
-    "Release Clause": "�49.5M"
+    "Release Clause": "&euro;49.5M"
   },
   {
     "ID": 71,
@@ -5901,7 +5901,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 16,
     "GKReflexes": 14,
-    "Release Clause": "�75.1M"
+    "Release Clause": "&euro;75.1M"
   },
   {
     "ID": 72,
@@ -5983,7 +5983,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 7,
     "GKReflexes": 8,
-    "Release Clause": "�72.6M"
+    "Release Clause": "&euro;72.6M"
   },
   {
     "ID": 73,
@@ -6065,7 +6065,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 7,
     "GKReflexes": 11,
-    "Release Clause": "�49.5M"
+    "Release Clause": "&euro;49.5M"
   },
   {
     "ID": 74,
@@ -6147,7 +6147,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 6,
     "GKReflexes": 14,
-    "Release Clause": "�82.7M"
+    "Release Clause": "&euro;82.7M"
   },
   {
     "ID": 75,
@@ -6229,7 +6229,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 13,
     "GKReflexes": 7,
-    "Release Clause": "�33.3M"
+    "Release Clause": "&euro;33.3M"
   },
   {
     "ID": 76,
@@ -6311,7 +6311,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 13,
     "GKReflexes": 7,
-    "Release Clause": "�26.9M"
+    "Release Clause": "&euro;26.9M"
   },
   {
     "ID": 77,
@@ -6393,7 +6393,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 8,
     "GKReflexes": 12,
-    "Release Clause": "�88.4M"
+    "Release Clause": "&euro;88.4M"
   },
   {
     "ID": 78,
@@ -6475,7 +6475,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 16,
     "GKReflexes": 7,
-    "Release Clause": "�89.6M"
+    "Release Clause": "&euro;89.6M"
   },
   {
     "ID": 79,
@@ -6557,7 +6557,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 12,
     "GKReflexes": 10,
-    "Release Clause": "�121.5M"
+    "Release Clause": "&euro;121.5M"
   },
   {
     "ID": 80,
@@ -6639,7 +6639,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 14,
     "GKReflexes": 15,
-    "Release Clause": "�98.8M"
+    "Release Clause": "&euro;98.8M"
   },
   {
     "ID": 81,
@@ -6721,7 +6721,7 @@ export const Footballers = [
     "GKKicking": 85,
     "GKPositioning": 84,
     "GKReflexes": 88,
-    "Release Clause": "�72.1M"
+    "Release Clause": "&euro;72.1M"
   },
   {
     "ID": 82,
@@ -6803,7 +6803,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 15,
     "GKReflexes": 15,
-    "Release Clause": "�69.9M"
+    "Release Clause": "&euro;69.9M"
   },
   {
     "ID": 83,
@@ -6885,7 +6885,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 10,
     "GKReflexes": 9,
-    "Release Clause": "�107.3M"
+    "Release Clause": "&euro;107.3M"
   },
   {
     "ID": 84,
@@ -6967,7 +6967,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 11,
     "GKReflexes": 6,
-    "Release Clause": "�74.9M"
+    "Release Clause": "&euro;74.9M"
   },
   {
     "ID": 85,
@@ -7049,7 +7049,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 15,
     "GKReflexes": 9,
-    "Release Clause": "�65.6M"
+    "Release Clause": "&euro;65.6M"
   },
   {
     "ID": 86,
@@ -7131,7 +7131,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 10,
     "GKReflexes": 13,
-    "Release Clause": "�95.6M"
+    "Release Clause": "&euro;95.6M"
   },
   {
     "ID": 87,
@@ -7213,7 +7213,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 5,
     "GKReflexes": 6,
-    "Release Clause": "�88.9M"
+    "Release Clause": "&euro;88.9M"
   },
   {
     "ID": 88,
@@ -7295,7 +7295,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 15,
     "GKReflexes": 12,
-    "Release Clause": "�66.6M"
+    "Release Clause": "&euro;66.6M"
   },
   {
     "ID": 89,
@@ -7377,7 +7377,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 11,
     "GKReflexes": 12,
-    "Release Clause": "�52.7M"
+    "Release Clause": "&euro;52.7M"
   },
   {
     "ID": 90,
@@ -7459,7 +7459,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 14,
     "GKReflexes": 8,
-    "Release Clause": "�77.7M"
+    "Release Clause": "&euro;77.7M"
   },
   {
     "ID": 91,
@@ -7623,7 +7623,7 @@ export const Footballers = [
     "GKKicking": 71,
     "GKPositioning": 85,
     "GKReflexes": 87,
-    "Release Clause": "�55.2M"
+    "Release Clause": "&euro;55.2M"
   },
   {
     "ID": 93,
@@ -7705,7 +7705,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 12,
     "GKReflexes": 13,
-    "Release Clause": "�69.4M"
+    "Release Clause": "&euro;69.4M"
   },
   {
     "ID": 94,
@@ -7787,7 +7787,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 7,
     "GKReflexes": 7,
-    "Release Clause": "�78M"
+    "Release Clause": "&euro;78M"
   },
   {
     "ID": 95,
@@ -7869,7 +7869,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 6,
     "GKReflexes": 5,
-    "Release Clause": "�49.5M"
+    "Release Clause": "&euro;49.5M"
   },
   {
     "ID": 96,
@@ -7951,7 +7951,7 @@ export const Footballers = [
     "GKKicking": 4,
     "GKPositioning": 2,
     "GKReflexes": 4,
-    "Release Clause": "�53.3M"
+    "Release Clause": "&euro;53.3M"
   },
   {
     "ID": 97,
@@ -8033,7 +8033,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 9,
     "GKReflexes": 6,
-    "Release Clause": "�63.8M"
+    "Release Clause": "&euro;63.8M"
   },
   {
     "ID": 98,
@@ -8115,7 +8115,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 15,
     "GKReflexes": 15,
-    "Release Clause": "�51.9M"
+    "Release Clause": "&euro;51.9M"
   },
   {
     "ID": 99,
@@ -8197,7 +8197,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 15,
     "GKReflexes": 8,
-    "Release Clause": "�54.5M"
+    "Release Clause": "&euro;54.5M"
   },
   {
     "ID": 100,
@@ -8279,7 +8279,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 8,
     "GKReflexes": 11,
-    "Release Clause": "�78.9M"
+    "Release Clause": "&euro;78.9M"
   },
   {
     "ID": 101,
@@ -8361,7 +8361,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 8,
     "GKReflexes": 11,
-    "Release Clause": "�60.4M"
+    "Release Clause": "&euro;60.4M"
   },
   {
     "ID": 102,
@@ -8443,7 +8443,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 8,
     "GKReflexes": 14,
-    "Release Clause": "�15.3M"
+    "Release Clause": "&euro;15.3M"
   },
   {
     "ID": 103,
@@ -8525,7 +8525,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 10,
     "GKReflexes": 14,
-    "Release Clause": "�42.9M"
+    "Release Clause": "&euro;42.9M"
   },
   {
     "ID": 104,
@@ -8607,7 +8607,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 13,
     "GKReflexes": 12,
-    "Release Clause": "�26.4M"
+    "Release Clause": "&euro;26.4M"
   },
   {
     "ID": 105,
@@ -8689,7 +8689,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 5,
     "GKReflexes": 7,
-    "Release Clause": "�75.9M"
+    "Release Clause": "&euro;75.9M"
   },
   {
     "ID": 106,
@@ -8771,7 +8771,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 9,
     "GKReflexes": 5,
-    "Release Clause": "�44.1M"
+    "Release Clause": "&euro;44.1M"
   },
   {
     "ID": 107,
@@ -8853,7 +8853,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 8,
     "GKReflexes": 6,
-    "Release Clause": "�40.7M"
+    "Release Clause": "&euro;40.7M"
   },
   {
     "ID": 108,
@@ -8935,7 +8935,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 9,
     "GKReflexes": 10,
-    "Release Clause": "�17.1M"
+    "Release Clause": "&euro;17.1M"
   },
   {
     "ID": 109,
@@ -9017,7 +9017,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 9,
     "GKReflexes": 12,
-    "Release Clause": "�21M"
+    "Release Clause": "&euro;21M"
   },
   {
     "ID": 110,
@@ -9099,7 +9099,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 6,
     "GKReflexes": 15,
-    "Release Clause": "�65.5M"
+    "Release Clause": "&euro;65.5M"
   },
   {
     "ID": 111,
@@ -9181,7 +9181,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 10,
     "GKReflexes": 15,
-    "Release Clause": "�72.3M"
+    "Release Clause": "&euro;72.3M"
   },
   {
     "ID": 112,
@@ -9263,7 +9263,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 11,
     "GKReflexes": 14,
-    "Release Clause": "�66.4M"
+    "Release Clause": "&euro;66.4M"
   },
   {
     "ID": 113,
@@ -9345,7 +9345,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 14,
     "GKReflexes": 5,
-    "Release Clause": "�65.5M"
+    "Release Clause": "&euro;65.5M"
   },
   {
     "ID": 114,
@@ -9427,7 +9427,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 8,
     "GKReflexes": 14,
-    "Release Clause": "�84M"
+    "Release Clause": "&euro;84M"
   },
   {
     "ID": 115,
@@ -9509,7 +9509,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 7,
     "GKReflexes": 15,
-    "Release Clause": "�67.5M"
+    "Release Clause": "&euro;67.5M"
   },
   {
     "ID": 116,
@@ -9591,7 +9591,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 15,
     "GKReflexes": 11,
-    "Release Clause": "�87.1M"
+    "Release Clause": "&euro;87.1M"
   },
   {
     "ID": 117,
@@ -9673,7 +9673,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 11,
     "GKReflexes": 8,
-    "Release Clause": "�87.1M"
+    "Release Clause": "&euro;87.1M"
   },
   {
     "ID": 118,
@@ -9755,7 +9755,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 8,
     "GKReflexes": 8,
-    "Release Clause": "�67.2M"
+    "Release Clause": "&euro;67.2M"
   },
   {
     "ID": 119,
@@ -9837,7 +9837,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 10,
     "GKReflexes": 13,
-    "Release Clause": "�68.3M"
+    "Release Clause": "&euro;68.3M"
   },
   {
     "ID": 120,
@@ -9919,7 +9919,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 14,
     "GKReflexes": 14,
-    "Release Clause": "�68.5M"
+    "Release Clause": "&euro;68.5M"
   },
   {
     "ID": 121,
@@ -10001,7 +10001,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 14,
     "GKReflexes": 8,
-    "Release Clause": "�73.2M"
+    "Release Clause": "&euro;73.2M"
   },
   {
     "ID": 122,
@@ -10083,7 +10083,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 10,
     "GKReflexes": 9,
-    "Release Clause": "�77M"
+    "Release Clause": "&euro;77M"
   },
   {
     "ID": 123,
@@ -10165,7 +10165,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 9,
     "GKReflexes": 15,
-    "Release Clause": "�66.9M"
+    "Release Clause": "&euro;66.9M"
   },
   {
     "ID": 124,
@@ -10247,7 +10247,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 12,
     "GKReflexes": 10,
-    "Release Clause": "�83M"
+    "Release Clause": "&euro;83M"
   },
   {
     "ID": 125,
@@ -10329,7 +10329,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 6,
     "GKReflexes": 10,
-    "Release Clause": "�71.2M"
+    "Release Clause": "&euro;71.2M"
   },
   {
     "ID": 126,
@@ -10411,7 +10411,7 @@ export const Footballers = [
     "GKKicking": 75,
     "GKPositioning": 81,
     "GKReflexes": 88,
-    "Release Clause": "�49.4M"
+    "Release Clause": "&euro;49.4M"
   },
   {
     "ID": 127,
@@ -10493,7 +10493,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 14,
     "GKReflexes": 13,
-    "Release Clause": "�55.9M"
+    "Release Clause": "&euro;55.9M"
   },
   {
     "ID": 128,
@@ -10575,7 +10575,7 @@ export const Footballers = [
     "GKKicking": 71,
     "GKPositioning": 79,
     "GKReflexes": 90,
-    "Release Clause": "�50.9M"
+    "Release Clause": "&euro;50.9M"
   },
   {
     "ID": 129,
@@ -10657,7 +10657,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 6,
     "GKReflexes": 9,
-    "Release Clause": "�48.7M"
+    "Release Clause": "&euro;48.7M"
   },
   {
     "ID": 130,
@@ -10739,7 +10739,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 12,
     "GKReflexes": 13,
-    "Release Clause": "�63M"
+    "Release Clause": "&euro;63M"
   },
   {
     "ID": 131,
@@ -10821,7 +10821,7 @@ export const Footballers = [
     "GKKicking": 75,
     "GKPositioning": 85,
     "GKReflexes": 82,
-    "Release Clause": "�53.3M"
+    "Release Clause": "&euro;53.3M"
   },
   {
     "ID": 132,
@@ -10903,7 +10903,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 14,
     "GKReflexes": 9,
-    "Release Clause": "�44.4M"
+    "Release Clause": "&euro;44.4M"
   },
   {
     "ID": 133,
@@ -10985,7 +10985,7 @@ export const Footballers = [
     "GKKicking": 68,
     "GKPositioning": 82,
     "GKReflexes": 88,
-    "Release Clause": "�37.4M"
+    "Release Clause": "&euro;37.4M"
   },
   {
     "ID": 134,
@@ -11067,7 +11067,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 14,
     "GKReflexes": 12,
-    "Release Clause": "�65.1M"
+    "Release Clause": "&euro;65.1M"
   },
   {
     "ID": 135,
@@ -11149,7 +11149,7 @@ export const Footballers = [
     "GKKicking": 16,
     "GKPositioning": 15,
     "GKReflexes": 8,
-    "Release Clause": "�45.3M"
+    "Release Clause": "&euro;45.3M"
   },
   {
     "ID": 136,
@@ -11231,7 +11231,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 5,
     "GKReflexes": 13,
-    "Release Clause": "�59.2M"
+    "Release Clause": "&euro;59.2M"
   },
   {
     "ID": 137,
@@ -11313,7 +11313,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 11,
     "GKReflexes": 11,
-    "Release Clause": "�46.8M"
+    "Release Clause": "&euro;46.8M"
   },
   {
     "ID": 138,
@@ -11395,7 +11395,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 12,
     "GKReflexes": 11,
-    "Release Clause": "�54.6M"
+    "Release Clause": "&euro;54.6M"
   },
   {
     "ID": 139,
@@ -11477,7 +11477,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 8,
     "GKReflexes": 15,
-    "Release Clause": "�41.3M"
+    "Release Clause": "&euro;41.3M"
   },
   {
     "ID": 140,
@@ -11559,7 +11559,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 7,
     "GKReflexes": 13,
-    "Release Clause": "�56.4M"
+    "Release Clause": "&euro;56.4M"
   },
   {
     "ID": 141,
@@ -11641,7 +11641,7 @@ export const Footballers = [
     "GKKicking": 77,
     "GKPositioning": 82,
     "GKReflexes": 84,
-    "Release Clause": "�52.2M"
+    "Release Clause": "&euro;52.2M"
   },
   {
     "ID": 142,
@@ -11723,7 +11723,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 7,
     "GKReflexes": 10,
-    "Release Clause": "�60.9M"
+    "Release Clause": "&euro;60.9M"
   },
   {
     "ID": 143,
@@ -11805,7 +11805,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 10,
     "GKReflexes": 7,
-    "Release Clause": "�40.8M"
+    "Release Clause": "&euro;40.8M"
   },
   {
     "ID": 144,
@@ -11887,7 +11887,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 14,
     "GKReflexes": 12,
-    "Release Clause": "�52.3M"
+    "Release Clause": "&euro;52.3M"
   },
   {
     "ID": 145,
@@ -11969,7 +11969,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 8,
     "GKReflexes": 5,
-    "Release Clause": "�33M"
+    "Release Clause": "&euro;33M"
   },
   {
     "ID": 146,
@@ -12051,7 +12051,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 12,
     "GKReflexes": 5,
-    "Release Clause": "�43.7M"
+    "Release Clause": "&euro;43.7M"
   },
   {
     "ID": 147,
@@ -12133,7 +12133,7 @@ export const Footballers = [
     "GKKicking": 77,
     "GKPositioning": 85,
     "GKReflexes": 82,
-    "Release Clause": "�36.1M"
+    "Release Clause": "&euro;36.1M"
   },
   {
     "ID": 148,
@@ -12215,7 +12215,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 9,
     "GKReflexes": 5,
-    "Release Clause": "�47.5M"
+    "Release Clause": "&euro;47.5M"
   },
   {
     "ID": 149,
@@ -12297,7 +12297,7 @@ export const Footballers = [
     "GKKicking": 82,
     "GKPositioning": 80,
     "GKReflexes": 88,
-    "Release Clause": "�36.1M"
+    "Release Clause": "&euro;36.1M"
   },
   {
     "ID": 150,
@@ -12379,7 +12379,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 9,
     "GKReflexes": 8,
-    "Release Clause": "�30.6M"
+    "Release Clause": "&euro;30.6M"
   },
   {
     "ID": 151,
@@ -12461,7 +12461,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 9,
     "GKReflexes": 6,
-    "Release Clause": "�51M"
+    "Release Clause": "&euro;51M"
   },
   {
     "ID": 152,
@@ -12543,7 +12543,7 @@ export const Footballers = [
     "GKKicking": 4,
     "GKPositioning": 2,
     "GKReflexes": 4,
-    "Release Clause": "�6.9M"
+    "Release Clause": "&euro;6.9M"
   },
   {
     "ID": 153,
@@ -12625,7 +12625,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 5,
     "GKReflexes": 15,
-    "Release Clause": "�29.5M"
+    "Release Clause": "&euro;29.5M"
   },
   {
     "ID": 154,
@@ -12707,7 +12707,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 5,
     "GKReflexes": 15,
-    "Release Clause": "�25.6M"
+    "Release Clause": "&euro;25.6M"
   },
   {
     "ID": 155,
@@ -12789,7 +12789,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 10,
     "GKReflexes": 13,
-    "Release Clause": "�90M"
+    "Release Clause": "&euro;90M"
   },
   {
     "ID": 156,
@@ -12871,7 +12871,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 6,
     "GKReflexes": 15,
-    "Release Clause": "�84.1M"
+    "Release Clause": "&euro;84.1M"
   },
   {
     "ID": 157,
@@ -12953,7 +12953,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 15,
     "GKReflexes": 13,
-    "Release Clause": "�50.4M"
+    "Release Clause": "&euro;50.4M"
   },
   {
     "ID": 158,
@@ -13035,7 +13035,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 15,
     "GKReflexes": 10,
-    "Release Clause": "�40.5M"
+    "Release Clause": "&euro;40.5M"
   },
   {
     "ID": 159,
@@ -13117,7 +13117,7 @@ export const Footballers = [
     "GKKicking": 20,
     "GKPositioning": 19,
     "GKReflexes": 20,
-    "Release Clause": "�54.2M"
+    "Release Clause": "&euro;54.2M"
   },
   {
     "ID": 160,
@@ -13199,7 +13199,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 15,
     "GKReflexes": 9,
-    "Release Clause": "�62.5M"
+    "Release Clause": "&euro;62.5M"
   },
   {
     "ID": 161,
@@ -13281,7 +13281,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 14,
     "GKReflexes": 9,
-    "Release Clause": "�67.2M"
+    "Release Clause": "&euro;67.2M"
   },
   {
     "ID": 162,
@@ -13363,7 +13363,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 9,
     "GKReflexes": 14,
-    "Release Clause": "�58.7M"
+    "Release Clause": "&euro;58.7M"
   },
   {
     "ID": 163,
@@ -13445,7 +13445,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 7,
     "GKReflexes": 14,
-    "Release Clause": "�79.9M"
+    "Release Clause": "&euro;79.9M"
   },
   {
     "ID": 164,
@@ -13527,7 +13527,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 3,
     "GKReflexes": 5,
-    "Release Clause": "�58.7M"
+    "Release Clause": "&euro;58.7M"
   },
   {
     "ID": 165,
@@ -13609,7 +13609,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 9,
     "GKReflexes": 14,
-    "Release Clause": "�52.4M"
+    "Release Clause": "&euro;52.4M"
   },
   {
     "ID": 166,
@@ -13773,7 +13773,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 15,
     "GKReflexes": 9,
-    "Release Clause": "�61.2M"
+    "Release Clause": "&euro;61.2M"
   },
   {
     "ID": 168,
@@ -13855,7 +13855,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 7,
     "GKReflexes": 15,
-    "Release Clause": "�63.5M"
+    "Release Clause": "&euro;63.5M"
   },
   {
     "ID": 169,
@@ -13937,7 +13937,7 @@ export const Footballers = [
     "GKKicking": 15,
     "GKPositioning": 11,
     "GKReflexes": 9,
-    "Release Clause": "�58.7M"
+    "Release Clause": "&euro;58.7M"
   },
   {
     "ID": 170,
@@ -14019,7 +14019,7 @@ export const Footballers = [
     "GKKicking": 6,
     "GKPositioning": 7,
     "GKReflexes": 13,
-    "Release Clause": "�66.3M"
+    "Release Clause": "&euro;66.3M"
   },
   {
     "ID": 171,
@@ -14101,7 +14101,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 8,
     "GKReflexes": 14,
-    "Release Clause": "�47.9M"
+    "Release Clause": "&euro;47.9M"
   },
   {
     "ID": 172,
@@ -14183,7 +14183,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 9,
     "GKReflexes": 7,
-    "Release Clause": "�55.4M"
+    "Release Clause": "&euro;55.4M"
   },
   {
     "ID": 173,
@@ -14265,7 +14265,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 10,
     "GKReflexes": 10,
-    "Release Clause": "�73.4M"
+    "Release Clause": "&euro;73.4M"
   },
   {
     "ID": 174,
@@ -14347,7 +14347,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 12,
     "GKReflexes": 10,
-    "Release Clause": "�69.6M"
+    "Release Clause": "&euro;69.6M"
   },
   {
     "ID": 175,
@@ -14429,7 +14429,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 9,
     "GKReflexes": 7,
-    "Release Clause": "�40M"
+    "Release Clause": "&euro;40M"
   },
   {
     "ID": 176,
@@ -14593,7 +14593,7 @@ export const Footballers = [
     "GKKicking": 76,
     "GKPositioning": 80,
     "GKReflexes": 84,
-    "Release Clause": "�58.4M"
+    "Release Clause": "&euro;58.4M"
   },
   {
     "ID": 178,
@@ -14675,7 +14675,7 @@ export const Footballers = [
     "GKKicking": 12,
     "GKPositioning": 7,
     "GKReflexes": 8,
-    "Release Clause": "�65.3M"
+    "Release Clause": "&euro;65.3M"
   },
   {
     "ID": 179,
@@ -14757,7 +14757,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 9,
     "GKReflexes": 7,
-    "Release Clause": "�59.5M"
+    "Release Clause": "&euro;59.5M"
   },
   {
     "ID": 180,
@@ -14839,7 +14839,7 @@ export const Footballers = [
     "GKKicking": 88,
     "GKPositioning": 81,
     "GKReflexes": 86,
-    "Release Clause": "�49.4M"
+    "Release Clause": "&euro;49.4M"
   },
   {
     "ID": 181,
@@ -14921,7 +14921,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 13,
     "GKReflexes": 12,
-    "Release Clause": "�55.3M"
+    "Release Clause": "&euro;55.3M"
   },
   {
     "ID": 182,
@@ -15003,7 +15003,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 10,
     "GKReflexes": 8,
-    "Release Clause": "�54.9M"
+    "Release Clause": "&euro;54.9M"
   },
   {
     "ID": 183,
@@ -15085,7 +15085,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 8,
     "GKReflexes": 9,
-    "Release Clause": "�58.6M"
+    "Release Clause": "&euro;58.6M"
   },
   {
     "ID": 184,
@@ -15167,7 +15167,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 13,
     "GKReflexes": 8,
-    "Release Clause": "�62.6M"
+    "Release Clause": "&euro;62.6M"
   },
   {
     "ID": 185,
@@ -15249,7 +15249,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 5,
     "GKReflexes": 7,
-    "Release Clause": "�62.2M"
+    "Release Clause": "&euro;62.2M"
   },
   {
     "ID": 186,
@@ -15331,7 +15331,7 @@ export const Footballers = [
     "GKKicking": 14,
     "GKPositioning": 7,
     "GKReflexes": 14,
-    "Release Clause": "�59.7M"
+    "Release Clause": "&euro;59.7M"
   },
   {
     "ID": 187,
@@ -15413,7 +15413,7 @@ export const Footballers = [
     "GKKicking": 13,
     "GKPositioning": 14,
     "GKReflexes": 15,
-    "Release Clause": "�56M"
+    "Release Clause": "&euro;56M"
   },
   {
     "ID": 188,
@@ -15495,7 +15495,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 15,
     "GKReflexes": 7,
-    "Release Clause": "�52.1M"
+    "Release Clause": "&euro;52.1M"
   },
   {
     "ID": 189,
@@ -15577,7 +15577,7 @@ export const Footballers = [
     "GKKicking": 83,
     "GKPositioning": 82,
     "GKReflexes": 86,
-    "Release Clause": "�37.8M"
+    "Release Clause": "&euro;37.8M"
   },
   {
     "ID": 190,
@@ -15659,7 +15659,7 @@ export const Footballers = [
     "GKKicking": 5,
     "GKPositioning": 5,
     "GKReflexes": 8,
-    "Release Clause": "�45.1M"
+    "Release Clause": "&euro;45.1M"
   },
   {
     "ID": 191,
@@ -15741,7 +15741,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 13,
     "GKReflexes": 11,
-    "Release Clause": "�32.3M"
+    "Release Clause": "&euro;32.3M"
   },
   {
     "ID": 192,
@@ -15823,7 +15823,7 @@ export const Footballers = [
     "GKKicking": 11,
     "GKPositioning": 15,
     "GKReflexes": 10,
-    "Release Clause": "�56.3M"
+    "Release Clause": "&euro;56.3M"
   },
   {
     "ID": 193,
@@ -15905,7 +15905,7 @@ export const Footballers = [
     "GKKicking": 10,
     "GKPositioning": 11,
     "GKReflexes": 5,
-    "Release Clause": "�66.3M"
+    "Release Clause": "&euro;66.3M"
   },
   {
     "ID": 194,
@@ -15987,7 +15987,7 @@ export const Footballers = [
     "GKKicking": 9,
     "GKPositioning": 9,
     "GKReflexes": 15,
-    "Release Clause": "�51M"
+    "Release Clause": "&euro;51M"
   },
   {
     "ID": 195,
@@ -16069,7 +16069,7 @@ export const Footballers = [
     "GKKicking": 7,
     "GKPositioning": 6,
     "GKReflexes": 16,
-    "Release Clause": "�45.1M"
+    "Release Clause": "&euro;45.1M"
   },
   {
     "ID": 196,
@@ -16151,7 +16151,7 @@ export const Footballers = [
     "GKKicking": 79,
     "GKPositioning": 78,
     "GKReflexes": 82,
-    "Release Clause": "�45.7M"
+    "Release Clause": "&euro;45.7M"
   },
   {
     "ID": 197,
@@ -16233,7 +16233,7 @@ export const Footballers = [
     "GKKicking": 70,
     "GKPositioning": 82,
     "GKReflexes": 85,
-    "Release Clause": "�37.3M"
+    "Release Clause": "&euro;37.3M"
   },
   {
     "ID": 198,
@@ -16315,7 +16315,7 @@ export const Footballers = [
     "GKKicking": 8,
     "GKPositioning": 12,
     "GKReflexes": 13,
-    "Release Clause": "�39.9M"
+    "Release Clause": "&euro;39.9M"
   },
   {
     "ID": "",

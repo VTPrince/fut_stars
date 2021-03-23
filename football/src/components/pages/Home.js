@@ -4,7 +4,7 @@ import barca from '../images/home_teams/barca.png'
 import united from '../images/home_teams/united.png'
 import city from '../images/home_teams/city.png'
 import psg from '../images/home_teams/psg.png'
-import ball from '../images/home_teams/ball.png'
+import ball from '../images/ball.png'
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
             <h2>Draft them and go head to head against the best</h2>
           </div>
           <div className="p-bg">
-          <p className="website-info">website name gives the teams the opportunity to infuse their squad with new talent. Some players will provide an instant boost to the team that selects them; others won’t. But the chance that drafted players will lead their new clubs to glory makes teams compete over talent.</p>
+          <p className="website-info">Fut Stars gives the teams the opportunity to infuse their squad with new talent. Some players will provide an instant boost to the team that selects them; others won’t. But the chance that drafted players will lead their new clubs to glory makes teams compete over talent.</p>
           </div>
           <div className='logos'>
             <img src={barca} alt="barca"></img>
@@ -31,7 +31,7 @@ export default function Home() {
                   <h3 className="footer-h3">About Us</h3>
                   <p className="footer-p">Ad irure minim cillum eiusmod ex cillum eiusmod ut tempor non magna amet ullamco reprehenderit. Est pariatur laboris do cillum ut in ad fugiat. Excepteur aute excepteur mollit voluptate dolore esse sit. Nostrud est sunt cupidatat culpa velit occaecat cillum occaecat eu tempor laborum culpa exercitation.</p>
                   <ul class="sci">
-                  <li><a href="#"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+                  <li><i class="fab fa-github" aria-hidden="true"></i></li>
                 </ul>
                 </div>
                 <div className="sec contact">
