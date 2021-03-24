@@ -1,23 +1,29 @@
 import React from 'react';
 import {Footballers} from '../../dataset/data'
-import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Info from './Info';
+// import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+// import Info from './Info';
 import {Link} from 'react-router-dom';
 
+const handleClick = (e) => {
+    localStorage.setItem('id', e.target.id);
+  }
 
 class Forward extends React.Component{
+    
     render(){
         return (
         <>
             <div className="player-container">
-                {Footballers.map((data) => {
+                {    
+                Footballers.map((data) => {
+                    
                     return(
                     <>
-                    <Router>
+                    {/* <Router>
                         <Switch>
-                            <Route path='/Info' exact component={Info} />
+                            <Route path='/Info' exact component={Info} key={data.ID} />
                         </Switch>
-                    </Router>
+                    </Router> */}
                         <div key={data.ID}>
                             {
                                 (
@@ -31,10 +37,8 @@ class Forward extends React.Component{
                                     data.Position === "RW" 
                                 ) && 
                                 <Link to='/Info' key={data.ID}>
-                                    {
-                                        data.Name
-                                    }
-                                </Link>
+                                    <button key={data.ID} id={data.ID} onClick={handleClick}>{data.Name}</button>
+                                 </Link>
                                 // <p><button onClick={localStorage.setItem('id',data.ID)}>{data.Name}</button></p>     
                             }
                         </div>

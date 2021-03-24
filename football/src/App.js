@@ -12,6 +12,7 @@ import Wishlist from './components/pages/Wishlist';
 import AboutUs from './components/pages/AboutUs';
 import Logout from './components/pages/Logout';
 import Players from './components/pages/Players';
+import Info from './components/pages/Info';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
         <Route path='/AboutUs' exact component={AboutUs} />
         <Route path='/Logout' exact component={Logout} />
         <Route path='/Players' exact component={Players} />
+        <Route path='/Info' exact component={Info} />
       </Switch>
     </Router>
   );

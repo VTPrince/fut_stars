@@ -1,12 +1,9 @@
-// import React from 'react';
-// import {Footballers} from '../../dataset/data'
-
-// const Info = (props) => {
-//     return(
-//           <h2> {props.message} </h2>
-//     );
-// }
+import React from 'react';
 
 export default function Info(){
-
+    return(
+        <>
+            <h1>{localStorage.getItem("id")}</h1>
+        </>
+    )
 }
